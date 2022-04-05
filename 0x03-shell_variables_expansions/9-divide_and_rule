@@ -1,2 +1,5 @@
 #!/bin/bash
-expr POWER/DIVIDE 
+export POWER=2
+export DIVIDE=12
+POWER/DIVIDE
+
